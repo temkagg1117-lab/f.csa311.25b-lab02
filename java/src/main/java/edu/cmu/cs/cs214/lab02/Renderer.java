@@ -13,7 +13,7 @@ public class Renderer {
     }
 
     public void draw() {
-        double area = shape.getArea(); // Polymorphism ашиглаж area-ийг авна
+        double area = shape.getArea(); // Area-г авна
         System.out.println("Shape printed");
         System.out.println("Its area is " + area);
     }
