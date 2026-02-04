@@ -28,7 +28,6 @@
             </plugin>
         </plugins>
         <pluginManagement>
-            <!-- Upgrade default checkstyle version to allow for Java 14+ features. -->
             <plugins>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
